@@ -1,0 +1,11 @@
+CARS
+
+Brand Stringa -> VARCHAR(15);
+Modello Stringa -> VARCHAR(15);
+Alimentazione  Stringa -> VARCHAR(50);
+Anno Data -> YEAR;
+Cavalli Numero -> MEDIUM INT;
+N Porte Numero -> TINY INT;
+KM/Litro Numero -> FLOAT;
+Emissioni CO2 -> FLOAT;
+Kilometri Numero -> SMALL INT;
